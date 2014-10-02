@@ -1,7 +1,8 @@
 {
-  "name": "socket-chat-example",
+  "name": "jtuweatherstation",
   "version": "0.0.1",
   "description": "my first socket.io app",
+  "repository":"https://github.com/bloomlj/jtuweatherstation",
   "dependencies": {
     "express": "4.3.1",
     "socket.io": "1.0.2"
